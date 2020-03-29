@@ -1,0 +1,23 @@
+.img {
+    width: 300px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+#golang {
+    display: none;
+}
+
+#ruby {
+    display: none;
+}
+
+#python {
+    display: none;
+}
+
+#c-plus-plus {
+    display: none;
+}
