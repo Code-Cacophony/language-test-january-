@@ -17,7 +17,7 @@ This is a simple test meant to assign one of four different programming language
 
 ## Known Bugs
 
-* Currently unknown bug in Javascript that keeps test results from appearing.
+* No known bugs.
 
 ## Support and contact details
 
